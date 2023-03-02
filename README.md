@@ -1,10 +1,10 @@
 # Pokedex
 
 ## Description
-* A web application that uses the PokeAPI to display Pokemon's from generation 1
+* A web application that uses the PokeAPI to display Pokemons from generation 1
 
 ## Features 
-* Display Pokemon's (name, types and stats) from generation 1
+* Display Pokemons (name, types and stats) from generation 1
 * Modal to show Pokemon stats 
 * Search feature to filter Pokemon list
 
