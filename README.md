@@ -17,6 +17,8 @@
 
 ![pokedex - search](https://user-images.githubusercontent.com/90397446/222297793-6d0d8683-eb9c-4117-90d4-a4d2ef9158d5.png)
 
+![pokedex - stats](https://user-images.githubusercontent.com/90397446/222298216-61b126ec-632c-4ba4-9cd7-834290090939.png)
+
 ## What I Learned
 * How to use Material UI
 * Async await syntax for fetch API
@@ -24,3 +26,4 @@
 
 ## URL to Website
 * 
+
