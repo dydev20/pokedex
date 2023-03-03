@@ -12,7 +12,7 @@
 * React
 * Material UI
 
-## Screeshots
+## Screenshots
 ![pokedex](https://user-images.githubusercontent.com/90397446/222610914-d805634b-bfb7-4afa-b05d-63cf53e4f832.png)
 
 ![pokedex - search](https://user-images.githubusercontent.com/90397446/222610913-4558ddc0-e6d4-4a7e-859b-e54da5bb4a44.png)
