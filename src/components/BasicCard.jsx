@@ -8,8 +8,11 @@ import Modal from '@mui/material/Modal';
 import List from "@mui/material/List";
 import ListItemText from "@mui/material/ListItemText";
 import Pokemon from "./Pokemon"
+import { useTheme } from '@mui/material/styles';
 
 export default function BasicCard(props) {
+
+    const theme = useTheme()
     
     const [modalOpen,setModalOpen]=React.useState(false)
     
@@ -63,7 +66,7 @@ export default function BasicCard(props) {
                 
             </CardContent>
             <CardActions>
-                <Button size="small" onClick={handleOpen}>View Stats</Button>
+                <Button size="small" sx={{color:theme.palette.secondary.dark}} onClick={handleOpen}>View Stats</Button>
             </CardActions>
             
 
