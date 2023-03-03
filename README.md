@@ -22,7 +22,7 @@
 ## What I Learned
 * How to use Material UI
 * Async await syntax for fetch API
-* Array filter method
+* CSS styles with Emotion styling library
 
 ## URL to Website
 * https://pokedex-gen-1.netlify.app/
